@@ -10,4 +10,3 @@ import './js/renderPage'
 import './js/deletingMovie'
 import './js/modal/editPartMovieModal'
 import './js/services/editPartMovieApi'
-
